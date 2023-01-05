@@ -1,3 +1,4 @@
+# 35m정도 소요했으나, 메모리 사용량 초과
 def find_biggest(buffer, N):
     max_value = buffer[0]
     max_index = 0
