@@ -1,3 +1,6 @@
+# 45m 
+# 24개 test case중 21개 맞음
+
 def power(a, n):
     val = 1
     for i in range(n):
