@@ -4,6 +4,6 @@
 Programming language : Python3
 
 # 자료형에 대한 정리. 
-
+--> variable_type.py
 
 #1 array에서 특정값에 해당하는 원소를 전부 지우는 방법  --> remove_multiple_values.py
